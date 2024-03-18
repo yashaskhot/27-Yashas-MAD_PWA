@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Exp 1 - First Flutter App/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Exp 1 - First Flutter App/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Exp 1 - First Flutter App/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Exp 2 - Common Widgets/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Exp 2 - Common Widgets/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Exp 2 - Common Widgets/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Exp 3  - Profile Page App/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Exp 3  - Profile Page App/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Exp 3  - Profile Page App/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Exp 4 - ListView and Card Layout/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Exp 4 - ListView and Card Layout/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Exp 4 - ListView and Card Layout/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
