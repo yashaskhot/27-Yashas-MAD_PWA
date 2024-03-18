@@ -17,3 +17,10 @@
 
 - To develop a card layout for our Flutter application.	During this experiment, we acquired knowledge about: ListView &	CardLayout
 - Link :- [EXP 4](https://github.com/yashaskhot/27-Yashas-MAD_PWA/tree/main/Exp%204%20-%20ListView%20and%20Card%20Layout)
+
+# Experiment 5: FireBase Authentication 
+
+- To develop a Authentication mechanism for our Flutter application (Stateful)
+  During this experiment, we acquired knowledge about creation of Login form, GestureDetector, Firebase Authentication service (SignIn, SignUp and Reset Password) 
+  ToastMessages, Splash Screen
+- Link :- [EXP 5](https://github.com/yashaskhot/27-Yashas-MAD_PWA/tree/main/Exp%205%20-%20FireBase%20Authentication)
