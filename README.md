@@ -24,3 +24,15 @@
   During this experiment, we acquired knowledge about creation of Login form, GestureDetector, Firebase Authentication service (SignIn, SignUp and Reset Password) 
   ToastMessages, Splash Screen
 - Link :- [EXP 5](https://github.com/yashaskhot/27-Yashas-MAD_PWA/tree/main/Exp%205%20-%20FireBase%20Authentication)
+
+# Experiment 6: Routes and Consume API 
+
+- To develop multiple activities and navigate through routes for our Flutter application
+  During this experiment, we acquired knowledge about Navigate between activities using routes, Pass data through routing, Consume API.
+- Link :- [EXP 6](https://github.com/yashaskhot/27-Yashas-MAD_PWA/tree/main/Exp%206%20-%20Routes%20and%20Consume%20API)
+
+# Experiment 7: Navigation Drawer
+
+- To develop navigation drawer in the Flutter application
+  During this experiment, we acquired knowledge about creation of Navigation Drawer.
+- Link :- [EXP 7](https://github.com/yashaskhot/27-Yashas-MAD_PWA/tree/main/Exp%207%20-%20Navigation%20Drawer)
