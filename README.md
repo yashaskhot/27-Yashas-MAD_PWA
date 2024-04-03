@@ -36,3 +36,8 @@
 - To develop navigation drawer in the Flutter application
   During this experiment, we acquired knowledge about creation of Navigation Drawer.
 - Link :- [EXP 7](https://github.com/yashaskhot/27-Yashas-MAD_PWA/tree/main/Exp%207%20-%20Navigation%20Drawer)
+
+# Experiment 8: Flutter Map
+
+- To develop navigation map to display route in the Flutter application using OpenStreetMap 
+- Link :- [EXP 8](https://github.com/yashaskhot/27-Yashas-MAD_PWA/tree/main/Exp%208%20-%20Flutter%20Map)
